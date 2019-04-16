@@ -1,6 +1,6 @@
 def first_challenge
    epic_tragedy = {
-     Montanague: {}
-     Capulet: {}
+     :montanague => {}
+     :capulet => {}
    }
 end
